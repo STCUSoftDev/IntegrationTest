@@ -8,6 +8,10 @@ namespace HelloWorld
 {
     class Program
     {
+        /// <summary>
+        /// Entry point.
+        /// </summary>
+        /// <param name="args">command-line arguments/parameters</param>
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
