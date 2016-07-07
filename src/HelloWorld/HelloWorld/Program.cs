@@ -14,7 +14,7 @@ namespace HelloWorld
         /// <param name="args">command-line arguments/parameters</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello Brian");
         }
     }
 }
